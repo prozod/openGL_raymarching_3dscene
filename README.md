@@ -4,9 +4,8 @@ A simple 3D scene/plane where I make use of fragment shaders to implement differ
 
 The scene is a bit laggy when the shadows are on, I feel like the way I compute the rays hitting objects is not correct. 
 
-<img alt="logofireball" src="/external_assets/ss1.png" height="300" width="auto">
-<img alt="logofireball" src="/external_assets/ss2.png" height="300" width="auto">
+<img alt="logofireball" src="/external_assets/ss1.png" height="400" width="auto">
+<img alt="logofireball" src="/external_assets/ss2.png" height="400" width="auto">
 
-<video src="/external_assets/vid.mp4" width="300" />
-
+[![Watch the video](/external_assets/thumbnail.png)](/external_assets/vid.mp4)
 
