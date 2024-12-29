@@ -7,5 +7,5 @@ The scene is a bit laggy when the shadows are on, I feel like the way I compute 
 <img alt="logofireball" src="/external_assets/ss1.png" height="400" width="auto">
 <img alt="logofireball" src="/external_assets/ss2.png" height="400" width="auto">
 
-[![Watch the video](/external_assets/thumbnail.png)](/external_assets/vid.mp4)
+https://github.com/user-attachments/assets/be2a4e51-c472-4e79-b8b9-4f9ab1039995
 
